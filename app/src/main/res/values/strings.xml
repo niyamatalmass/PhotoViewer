@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_examples">Examples</string>
+    <string name="staggered_grid_layout">Staggered Grid Layout Manager</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="cont_desc_image">Recycler view Image</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+</resources>
